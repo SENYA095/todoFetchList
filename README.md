@@ -18,6 +18,6 @@ A simple Todo app built with **Next.js App Router**, **Tailwind CSS**, and the *
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/your-username/todo-app-nextjs.git
-cd todo-app-nextjs
+git clone https://github.com/SENYA095/todoFetchList.git
+cd todoFetchList
 npm install
